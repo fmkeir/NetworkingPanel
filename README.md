@@ -1,4 +1,4 @@
-[See the Dashboard in action](https://network-dashboard.fraserkeir.app/) | [Back-end Repo](https://github.com/fmkeir/Simulated-Network-Monitor)
+[See the Dashboard in action](https://network-dashboard.fraserkeir.com/) | [Back-end Repo](https://github.com/fmkeir/Simulated-Network-Monitor)
 
 This project was built as our final project for CodeClan's professional software development course. Version 1 was completed in the first 5 day sprint, we then continued to develop the project after the course finished. It functions as a Networking panel, and is also available for use as a websocket API with updating network data.
 
